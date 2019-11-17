@@ -1,0 +1,14 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "API that returns a Unix and GMT timestamp for a time value.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aazib Chaudhry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
